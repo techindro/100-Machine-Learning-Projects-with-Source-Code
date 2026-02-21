@@ -1,6 +1,6 @@
 # 100-Machine-Learning-Projects-with-Source-Code
 
-This article provides over 100 Machine Learning projects and ideas to provide hands-on experience for both beginners and professionals. Whether you're a student enhancing your resume or a professional advancing your career these projects offer practical insights into the world of Machine Learning and Data Science.
+This article provides over 100 Machine Learning projects and ideas to provide hands-on experience for both beginners and professionals. Whether you're a student enhancing your resume or a professional advancing your career these projects offer practical insights into the world of Machine Learning https://www.geeksforgeeks.org/machine-learning/machine-learning/ and Data Science. https://www.geeksforgeeks.org/data-science/data-science/
 
 Beginners Project
 Once you’ve learned the basics of machine learning, it’s important to try out some practical projects to strengthen your skills. This section includes fun and simple machine learning projects for beginners that you can quickly pick up to build a strong foundation.
